@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shekoofeh Mokhtari"
-  avatar           : "profile.png"
+  avatar           :
   bio              : "Natural Language Processing | Deep Learning"
   location         :
   employer         :
