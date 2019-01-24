@@ -13,4 +13,4 @@ Information Sciences](https://www.cis.fiu.edu) at [Florida International Univers
 
 My research interests lie in the intersection of Natural Language Processing and Deep Neural Networks.
 
-Get the latest version of my CV [[here]](https://shekoofehmokhtari.github.io/files/CV-2019-01.pdf).
+<!-- Get the latest version of my CV [[here]](https://shekoofehmokhtari.github.io/files/CV-2019-01.pdf). -->
